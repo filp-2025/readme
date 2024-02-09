@@ -1,0 +1,40 @@
+# Hugo configuration file
+title: ФИЛП
+
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Контакты
+      url: "https://t.me/tinkoffbank"
+      weight: 3
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/filp-2024"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
