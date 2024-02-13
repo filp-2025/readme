@@ -18,9 +18,6 @@ markup:
 
 menu:
   main:
-    - name: Контакты
-      url: "https://t.me/tinkoffbank"
-      weight: 3
     - name: GitHub
       weight: 5
       url: "https://github.com/filp-2024"
