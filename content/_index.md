@@ -111,7 +111,7 @@ toc: true
    3. Перейти в директорию с проектом
    4. ввести команду:
      ```
-       git remote add origin git@github.com:filp-2024/exercises.git
+       git remote add upstream git@github.com:filp-2024/exercises.git
      ```
 
 7. Далее необходимо настроить корректную сборку проекта
