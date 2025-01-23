@@ -20,7 +20,7 @@ menu:
   main:
     - name: GitHub
       weight: 5
-      url: "https://github.com/filp-2024"
+      url: "https://github.com/filp-2025"
       params:
         icon: github
 
