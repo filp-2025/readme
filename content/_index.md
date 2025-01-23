@@ -53,7 +53,7 @@ toc: true
 
 Необходимо заполнить форму:
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/appaoSGdXNfPCaPsS/shrwLxn3CZyaOolTX?backgroundColor=tealLight" frameborder="0" onmousewheel="" width="100%" height="865" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfu_nFp7gC9fR-_yDDTx3g3_fCPihFHjebLOaDl_aMOi_Fuxg/viewform?embedded=true" width="640" height="1012" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 После чего вам на почту привязанную к аккаунту придет письмо с приглашением, ссылка будет доступна в течение 7 дней:
