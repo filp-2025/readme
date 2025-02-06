@@ -77,11 +77,9 @@ toc: true
 
 | Группа | Организация в github                |
 |--------|-------------------------------------|
-| КНМО-1 | https://github.com/filp-2025-khmo-1 |
-| КНМО-2 | https://github.com/filp-2025-khmo-2 |
-| КНМО-3 | https://github.com/filp-2025-khmo-3 |
-| КНМО-4 | https://github.com/filp-2025-khmo-4 |
-| КНМО-5 | https://github.com/filp-2025-khmo-5 |
+| КН-201 | https://github.com/filp-2025-kn-201 |
+| КН-202 | https://github.com/filp-2025-kn-202 |
+| КН-203 | https://github.com/filp-2025-kn-203 |
 | Другая | https://github.com/filp-2025-other  |
 
 2. В окне Intellij выбрать Get from VCS
